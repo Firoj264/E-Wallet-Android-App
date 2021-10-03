@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536438572988",
+    "project_id": "mye-wallet",
+    "storage_bucket": "mye-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536438572988:android:763d0189fca0077e78cdb9",
+        "android_client_info": {
+          "package_name": "com.example.myecard.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536438572988-cshch6b90neh6f36bhp3rlvusvom9s9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myecard.ewallet",
+            "certificate_hash": "b753f816557dd89ccdcbc7e657eb513024797a92"
+          }
+        },
+        {
+          "client_id": "536438572988-dbhi23hlkhhnd24prc56j9iqu563umn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgVUaaOjgnsuRhHTqed9VVrzojveM2s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536438572988-dbhi23hlkhhnd24prc56j9iqu563umn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

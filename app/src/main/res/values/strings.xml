@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My E-Wallet</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="default_web_client_id1" translatable="false">536438572988-dbhi23hlkhhnd24prc56j9iqu563umn1.apps.googleusercontent.com</string>
+
+
+    <string-array name="companyName">
+        <item>Foodpanda</item>
+        <item>Daraz</item>
+        <item>Uber</item>
+        <item>Evaly</item>
+        <item>AlishaMart</item>
+        <item>Pathao</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Use My E-Wallet &amp; get ৳100 discount</item>
+        <item>Use My E-Wallet &amp; get ৳130 discount</item>
+        <item>Use My E-Wallet &amp; get ৳200 discount.</item>
+        <item>Use My E-Wallet &amp; get ৳400 discount</item>
+        <item>Use My E-Wallet &amp; get ৳500 discount</item>
+        <item>Use My E-Wallet &amp; get ৳160 discount</item>
+    </string-array>
+</resources>
